@@ -1,3 +1,5 @@
+<!-- 
+
 # Classification of Weeds and Crops at the Pixel-Level Using Convolutional Neural Networks and Data Augmentation
 
 ## Abstract
@@ -14,4 +16,5 @@ All data and code is subject to copyright and may only be used for non-commercia
 
 Contact Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br) for any questions.
 
+-->
 
