@@ -37,13 +37,13 @@ Contact Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br)
 
 ### Brief description of the files:
 
-requirements.txt -> required packages
-crop.py -> generates the patch augmentation
-dataset_cropweed.py -> loads images and annotations
-keras_train_functions.py -> makes data augmentation
-report_functions.py and report_metrics.py -> functions used in the report
-model_unet.py -> keras model u-net
-train_unet.py -> main script for running the experiments
+requirements.txt -> required packages </br>
+crop.py -> generates the patch augmentation </br>
+dataset_cropweed.py -> loads images and annotations </br>
+keras_train_functions.py -> makes data augmentation </br>
+report_functions.py and report_metrics.py -> functions used in the report </br>
+model_unet.py -> keras model u-net </br>
+train_unet.py -> main script for running the experiments </br>
 
 This repository has been changed and tested to run with the following package versions:
 
