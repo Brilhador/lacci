@@ -6,7 +6,18 @@ The Pixel-Level Classification of crops and weeds is an open problem in computer
 
 # Paper
 
-Soon available **here**.
+Available [here](https://ieeexplore.ieee.org/abstract/document/9037044).
+
+Bibtex:
+```
+@INPROCEEDINGS{9037044,
+  author={A. {Brilhador} and M. {Gutoski} and L. T. {Hattori} and A. {de Souza Inácio} and A. E. {Lazzaretti} and H. S. {Lopes}},
+  booktitle={2019 IEEE Latin American Conference on Computational Intelligence (LA-CCI)}, 
+  title={Classification of Weeds and Crops at the Pixel-Level Using Convolutional Neural Networks and Data Augmentation}, 
+  year={2019},
+  pages={1-6},
+  }
+```
 
 # Use
 
