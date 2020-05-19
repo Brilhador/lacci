@@ -28,10 +28,13 @@ Contact Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br)
 
 # Run Code
 
-1. Clone this repository
-\\ ``` git clone https://github.com/Brilhador/lacci_6th_cropweed.git ```
-2. Install the requirements
-\\ ``` pip install -r requirements.txt ```
+1. Clone this repository </br>
+``` git clone https://github.com/Brilhador/lacci_6th_cropweed.git ```
+2. Install the requirements </br>
+``` pip install -r requirements.txt ```
+3. Run the ```train_unet.py``` file to train the network and get the results </br>
+``` python train_unet.py
+
 
 
 ### Requirements
@@ -39,6 +42,7 @@ Contact Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br)
 This repository has been changed and tested to run with the following package versions:
 
 ```
+python==3.6.9
 tensorflow-gpu==2.2.0
 keras==2.3.1
 opencv-python==4.2.0.34
