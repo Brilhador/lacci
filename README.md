@@ -29,8 +29,10 @@ Contact Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br)
 # Run Code
 
 1. Clone this repository
-``` git clone https://github.com/Brilhador/lacci_6th_cropweed.git ```
-2. 
+- ``` git clone https://github.com/Brilhador/lacci_6th_cropweed.git ```
+2. Install the requirements
+- ``` pip install -r requirements.txt ```
+
 
 ### Requirements
 
