@@ -45,6 +45,8 @@ report_functions.py and report_metrics.py -> functions used in the report </br>
 model_unet.py -> keras model u-net </br>
 train_unet.py -> main script for running the experiments </br>
 
+### Required Packages
+
 This repository has been changed and tested to run with the following package versions:
 
 ```
