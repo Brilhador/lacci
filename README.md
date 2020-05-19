@@ -38,8 +38,8 @@ Contact Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br)
 ### Brief description of the files:
 
 requirements.txt -> required packages </br>
-crop.py -> generates the patch augmentation </br>
 dataset_cropweed.py -> loads images and annotations </br>
+crop.py -> generates the patch augmentation </br>
 keras_train_functions.py -> makes data augmentation </br>
 report_functions.py and report_metrics.py -> functions used in the report </br>
 model_unet.py -> keras model u-net </br>
