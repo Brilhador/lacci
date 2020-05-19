@@ -15,8 +15,7 @@ Bibtex:
   booktitle={2019 IEEE Latin American Conference on Computational Intelligence (LA-CCI)}, 
   title={Classification of Weeds and Crops at the Pixel-Level Using Convolutional Neural Networks and Data Augmentation}, 
   year={2019},
-  pages={1-6},
-  }
+  pages={1-6},}
 ```
 
 # Use
