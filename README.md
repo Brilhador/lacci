@@ -35,9 +35,15 @@ Contact Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br)
 3. Run the **train_unet.py** file to train the network and get the results </br>
 ``` python train_unet.py```
 
+### Brief description of the files:
 
-
-### Requirements
+requirements.txt -> required packages
+crop.py -> generates the patch augmentation
+dataset_cropweed.py -> loads images and annotations
+keras_train_functions.py -> makes data augmentation
+report_functions.py and report_metrics.py -> functions used in the report
+model_unet.py -> keras model u-net
+train_unet.py -> main script for running the experiments
 
 This repository has been changed and tested to run with the following package versions:
 
