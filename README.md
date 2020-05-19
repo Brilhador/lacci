@@ -24,3 +24,23 @@ All data and code is subject to copyright and may only be used for non-commercia
 
 Contact Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br) for any questions.
 
+# Run Code
+
+### Requirements
+
+This repository has been changed and tested to run with the following package versions:
+
+```
+tensorflow-gpu==2.2.0
+keras==2.3.1
+opencv-python==4.2.0.34
+scikit-image==0.17.2
+scikit-learn==0.23.0
+seaborn==0.10.1
+mlxtend==0.17.2
+```
+
+Initially the code was developed in previous versions of tensorflow-gpu and keras, so there are some warnings in the code.
+
+
+
