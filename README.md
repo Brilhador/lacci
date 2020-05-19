@@ -32,7 +32,7 @@ Contact Anderson Brilhador (andersonbrilhador@gmail.com, brilhador@utfpr.edu.br)
 ``` git clone https://github.com/Brilhador/lacci_6th_cropweed.git ```
 2. Install the requirements </br>
 ``` pip install -r requirements.txt ```
-3. Run the ```train_unet.py``` file to train the network and get the results </br>
+3. Run the **train_unet.py** file to train the network and get the results </br>
 ``` python train_unet.py```
 
 
