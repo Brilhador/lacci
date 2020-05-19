@@ -8,6 +8,8 @@ The Pixel-Level Classification of crops and weeds is an open problem in computer
 
 Available [here](https://ieeexplore.ieee.org/abstract/document/9037044).
 
+If you find this paper/code is useful in your research, please consider citing:
+
 Bibtex:
 ```
 @INPROCEEDINGS{9037044,
